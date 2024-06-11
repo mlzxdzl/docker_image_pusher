@@ -1,1 +1,1 @@
---platform=linux/amd64  alpine
+--platform=linux/amd64  alpine:3.19
