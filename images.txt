@@ -1,1 +1,1 @@
---platform=linux/amd64  rabbitmq:3-management
+--platform=linux/amd64  redis:5.0.14
