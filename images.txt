@@ -1,1 +1,1 @@
---platform=linux/amd64  grafana/loki-docker-driver:2.9.2
+grafana/loki-docker-driver:2.9.2
