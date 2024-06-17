@@ -1,1 +1,3 @@
---platform=linux/amd64  redis:5.0.14
+--platform=linux/amd64  grafana/loki:2.9.2
+--platform=linux/amd64  grafana/promtail:2.9.2
+--platform=linux/amd64  grafana/grafana:latest
