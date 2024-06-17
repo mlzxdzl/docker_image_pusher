@@ -1,3 +1,1 @@
---platform=linux/amd64  grafana/loki:2.9.2
---platform=linux/amd64  grafana/promtail:2.9.2
---platform=linux/amd64  grafana/grafana:latest
+--platform=linux/amd64  grafana/loki-docker-driver:2.9.2
