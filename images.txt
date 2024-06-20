@@ -1,1 +1,2 @@
---platform=linux/amd64 grafana/loki-docker-driver:2.9.2
+--platform=linux/amd64 kubernetesui/dashboard:v2.0.0-rc3
+--platform=linux/amd64 kubernetesui/metrics-scraper:v1.0.3
