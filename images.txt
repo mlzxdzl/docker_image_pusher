@@ -1,1 +1,1 @@
---platform=linux/amd64 python:3.7.17
+--platform=linux/amd64 mysql:5.7-oraclelinux7
