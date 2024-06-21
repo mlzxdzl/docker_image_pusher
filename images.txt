@@ -1,2 +1,1 @@
---platform=linux/amd64 kubernetesui/dashboard:v2.0.0-rc3
---platform=linux/amd64 kubernetesui/metrics-scraper:v1.0.3
+--platform=linux/amd64 python:3.7-slim
