@@ -1,1 +1,1 @@
---platform=linux/amd64 jenkins/jenkins:jdk17
+--platform=linux/amd64 gitlab/gitlab-ce:17.0.3-ce.0
