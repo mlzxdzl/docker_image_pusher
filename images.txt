@@ -1,1 +1,1 @@
---platform=linux/amd64 fluent/fluentd-kubernetes-daemonset:v1.17-debian-elasticsearch7-1
+--platform=linux/amd64 jenkins/jenkins:jdk17
