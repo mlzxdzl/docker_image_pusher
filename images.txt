@@ -2,10 +2,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-#k8s.gcr.io/ingress-nginx/controller:v1.1.1
-#k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #--platform=linux/amd64 tomcat:9.0-jdk8-corretto
---platform=linux/amd64 klausmeyer/docker-registry-browser
---platform=linux/amd64 portainer/portainer-ce:2.20.3-alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
